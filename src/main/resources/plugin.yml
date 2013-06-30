@@ -1,0 +1,14 @@
+author: Dabo Ross
+description: Allows disabling of breeding
+main: net.daboross.bukkitdev.nobreeding.NoBreeding
+name: NoBreeding
+version: '1.0'
+commands:
+  nobreed:
+    description: enable/disable NoBreeding
+    usage: |
+      To View: /<command>
+      To Enable: /<command> enable
+      To Disable: /<command> disable
+    permission: nobreeding.admin
+    permission-message: You do not have permission to use /nobreed. You need the nobreeding.admin permission to use this command.
