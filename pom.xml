@@ -3,7 +3,7 @@
     <groupId>net.daboross.bukkitdev.nobreeding</groupId>
     <artifactId>NoBreeding</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <name>NoBreeding</name>
     <repositories>
         <repository>

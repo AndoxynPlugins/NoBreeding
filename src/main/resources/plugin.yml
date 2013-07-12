@@ -2,7 +2,7 @@ author: Dabo Ross
 description: Allows disabling of breeding
 main: net.daboross.bukkitdev.nobreeding.NoBreeding
 name: NoBreeding
-version: '1.0'
+version: 1.0.0
 commands:
   nobreed:
     description: enable/disable NoBreeding
