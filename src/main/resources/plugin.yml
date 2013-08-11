@@ -1,8 +1,8 @@
+name: ${project.name}
 author: Dabo Ross
-description: Allows disabling of breeding
 main: net.daboross.bukkitdev.nobreeding.NoBreeding
-name: NoBreeding
-version: 1.0.0
+version: ${project.version}
+description: Allows disabling of breeding
 commands:
   nobreed:
     description: enable/disable NoBreeding
